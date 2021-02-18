@@ -1,0 +1,51 @@
+com/example/wassup/MainActivity.java
+ com.example.wassup.MainActivity
+ com.example.wassup.MainActivity$1
+ com.example.wassup.MainActivity$ViewPagerAdapter
+com/example/wassup/modelos/Chat.java
+ com.example.wassup.modelos.Chat
+com/example/wassup/adapters/UsuarioAdapter.java
+ com.example.wassup.adapters.UsuarioAdapter
+ com.example.wassup.adapters.UsuarioAdapter$1
+ com.example.wassup.adapters.UsuarioAdapter$ViewHolder
+com/example/wassup/modelos/ListaChats.java
+ com.example.wassup.modelos.ListaChats
+com/example/wassup/fragments/PerfilFragment.java
+ com.example.wassup.fragments.PerfilFragment
+ com.example.wassup.fragments.PerfilFragment$1
+ com.example.wassup.fragments.PerfilFragment$2
+ com.example.wassup.fragments.PerfilFragment$3
+ com.example.wassup.fragments.PerfilFragment$4
+ com.example.wassup.fragments.PerfilFragment$5
+com/example/wassup/fragments/UsuariosFragment.java
+ com.example.wassup.fragments.UsuariosFragment
+ com.example.wassup.fragments.UsuariosFragment$1
+com/example/wassup/InicioActivity.java
+ com.example.wassup.InicioActivity
+ com.example.wassup.InicioActivity$1
+ com.example.wassup.InicioActivity$2
+ com.example.wassup.InicioActivity$2$1
+com/example/wassup/RegistroActivity.java
+ com.example.wassup.RegistroActivity
+ com.example.wassup.RegistroActivity$1
+ com.example.wassup.RegistroActivity$2
+ com.example.wassup.RegistroActivity$2$1
+com/example/wassup/MensajesActivity.java
+ com.example.wassup.MensajesActivity
+ com.example.wassup.MensajesActivity$1
+ com.example.wassup.MensajesActivity$2
+ com.example.wassup.MensajesActivity$3
+ com.example.wassup.MensajesActivity$4
+ com.example.wassup.MensajesActivity$5
+ com.example.wassup.MensajesActivity$6
+com/example/wassup/adapters/MensajesAdapter.java
+ com.example.wassup.adapters.MensajesAdapter
+ com.example.wassup.adapters.MensajesAdapter$ViewHolder
+com/example/wassup/BuildConfig.java
+ com.example.wassup.BuildConfig
+com/example/wassup/modelos/Usuario.java
+ com.example.wassup.modelos.Usuario
+com/example/wassup/fragments/ChatsFragment.java
+ com.example.wassup.fragments.ChatsFragment
+ com.example.wassup.fragments.ChatsFragment$1
+ com.example.wassup.fragments.ChatsFragment$2

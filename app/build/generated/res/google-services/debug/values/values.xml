@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">875755824703-1eq52ptine803g2kmnni1kg6uqekb6on.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">875755824703</string>
+    <string name="google_api_key" translatable="false">AIzaSyDqPH5OuQIxXqo8mr348Pz2hPNqy5vGpPY</string>
+    <string name="google_app_id" translatable="false">1:875755824703:android:7121bbbb871d1e24143a8a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDqPH5OuQIxXqo8mr348Pz2hPNqy5vGpPY</string>
+    <string name="google_storage_bucket" translatable="false">wassup-77186.appspot.com</string>
+    <string name="project_id" translatable="false">wassup-77186</string>
+</resources>
