@@ -12,7 +12,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
-import com.example.wassup.MensajesActivity;
+import com.example.wassup.activities.MensajesActivity;
 import com.example.wassup.R;
 import com.example.wassup.modelos.Usuario;
 

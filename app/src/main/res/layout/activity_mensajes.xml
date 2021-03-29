@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MensajesActivity">
+    tools:context=".activities.MensajesActivity">
 
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/toolbar"
@@ -21,21 +21,13 @@
             android:id="@+id/perfilIV"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:padding="6dp"
-            app:srcCompat="@mipmap/ic_launcher"
-            tools:layout_editor_absoluteX="16dp" />
+            app:srcCompat="@mipmap/ic_launcher" />
 
         <TextView
             android:id="@+id/nombreUsuarioTV"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:paddingStart="15dp"
-            android:text="HHHHHHHHHH"
-            android:textColor="@color/white"
-            android:textSize="24sp"
-            android:textStyle="bold"
-            tools:layout_editor_absoluteX="100dp"
-            tools:layout_editor_absoluteY="32dp" />
+            android:text="" />
     </androidx.appcompat.widget.Toolbar>
 
     <!-- En el RV se mostrarán los mensajes -->
@@ -59,16 +51,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent">
 
-        <View
-            android:layout_width="match_parent"
-            android:layout_height="1px"
-            android:layout_marginStart="15dp"
-            android:layout_marginLeft="15dp"
-            android:layout_marginEnd="15dp"
-            android:layout_marginRight="15dp"
-            android:background="#000000"
-            app:layout_constraintStart_toStartOf="parent" />
-
         <EditText
             android:id="@+id/mensajeET"
             android:layout_width="match_parent"
@@ -76,8 +58,7 @@
             android:layout_centerVertical="true"
             android:layout_toLeftOf="@+id/enviarBT"
             android:background="@android:color/transparent"
-            android:hint="@string/escribeunmensaje"
-            android:paddingStart="20dp" />
+            android:hint="@string/escribeunmensaje" />
 
         <ImageButton
             android:id="@+id/enviarBT"

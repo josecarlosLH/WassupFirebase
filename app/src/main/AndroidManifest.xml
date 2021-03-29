@@ -8,16 +8,16 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/app_icon"
+        android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Wassup">
-        <activity android:name=".MensajesActivity"></activity>
-        <activity android:name=".MainActivity"
+        <activity android:name=".activities.MensajesActivity"></activity>
+        <activity android:name=".activities.MainActivity"
             android:theme="@style/Theme.Wassup2"/>
-        <activity android:name=".RegistroActivity" />
-        <activity android:name=".InicioActivity">
+        <activity android:name=".activities.RegistroActivity" />
+        <activity android:name=".activities.InicioActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
